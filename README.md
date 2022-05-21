@@ -6,7 +6,7 @@ Just Another Decorative Cipher 一个装饰性质的密码
 
 *临时图片 placeholder image*
 
-![placeholder Strayl](../Strayl/images/straylconcept.jpg "placeholder Strayl")
+![placeholder Strayl](https://github.com/LamialeVeilweaver/Strayl/blob/main/images/straylconcept.jpg "placeholder Strayl")
 
 
 
