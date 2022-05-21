@@ -4,6 +4,12 @@ Just Another Decorative Cipher 一个装饰性质的密码
 
 *此处应有工作流程状态徽章 insert badges here*
 
+*临时图片 placeholder image*
+
+![placeholder Strayl](../Strayl/images/straylconcept.jpg "placeholder Strayl")
+
+
+
 ## 简介 Intro
 迴宿（Strayl）是一种以弧线和星形符号为主要组件的密码，由莱米蕾进行主要开发。
 
@@ -18,7 +24,7 @@ Just Another Decorative Cipher 一个装饰性质的密码
 
 
 Strayl is a cipher developed by Lamiale that mainly consists of arc segments and symbols resembling stars. 
-With regard to its current state of development, Strayl, by itself, is not a language nor a reliable form of encryption. It does not contain a unique grammatical system (in comparison with grammar in natural languages). It is currently an **easily-cracked encrypted way to express**, rather than an actual method of encryption that could secure the secrecy of messages. Its relationship with existing natural languages could be compared to that between *fonts* and *the written form(s) of legitimate languages*. Moreover, the current syntax of Strayl requires a relatively spacious area to convey meaningful contex. This furthers the purpose of Strayl as a mean of decoration. 
+With regard to its current state of development, Strayl, by itself, is not a language nor a reliable form of encryption. It does not contain a unique grammatical system (as in comparison with grammar in natural languages). It is currently an **easily-cracked encrypted way to express**, rather than an actual method of encryption that could secure the secrecy of messages. Its relationship with existing natural languages could be compared to that between *fonts* and *the written form(s) of legitimate languages*. Moreover, the current syntax of Strayl requires a relatively spacious area to convey meaningful contex. This furthers the purpose of Strayl as a mean of decoration. 
 
 However, the vagueness of Strayl's current position could mean that there is a lot of room for development - subtypes could be differentiated from the original Strayl syntax, sets of modifications could be made... the possibilities are countless. Therefore, contributions are welcomed after initial developments, which including symbol design and basic syntax. 
 
