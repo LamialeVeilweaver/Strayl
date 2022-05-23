@@ -6,7 +6,7 @@ Just Another Decorative Cipher 一个装饰性质的密码
 
 *临时图片 placeholder image*
 
-![placeholder Strayl](https://github.com/LamialeVeilweaver/Strayl/blob/main/images/straylconcept.jpg "placeholder Strayl")
+![Strayl concept art](https://github.com/LamialeVeilweaver/Strayl/blob/main/images/concept_art/straylconcept.jpg "Strayl concept art")
 
 
 
@@ -26,13 +26,16 @@ Just Another Decorative Cipher 一个装饰性质的密码
 Strayl is a cipher developed by Lamiale that mainly consists of arc segments and symbols resembling stars. 
 With regard to its current state of development, Strayl, by itself, is not a language nor a reliable form of encryption. It does not contain a unique grammatical system (as in comparison with grammar in natural languages). It is currently an **easily-cracked encrypted way to express**, rather than an actual method of encryption that could secure the secrecy of messages. Its relationship with existing natural languages could be compared to that between *fonts* and *the written form(s) of legitimate languages*. Moreover, the current syntax of Strayl requires a relatively spacious area to convey meaningful contex. This furthers the purpose of Strayl as a mean of decoration. 
 
-However, the vagueness of Strayl's current position could mean that there is a lot of room for development - subtypes could be differentiated from the original Strayl syntax, sets of modifications could be made... the possibilities are countless. Therefore, contributions are welcomed after initial developments, which including symbol design and basic syntax. 
+However, the vagueness of Strayl's current position could mean that there is a lot of room for development - subtypes could be differentiated from the original Strayl syntax, sets of modifications could be made... the possibilities are countless. Therefore, contributions are welcomed after initial developments (which includes symbol design and basic syntax construction). 
 
 There is not yet a computer encrypter / decrypter for Strayl. One could be made in the future; it's likely this generator would be based on HTML5, JavaScript and CSS. 
-If such program is written in the future, and that I have acquired a level of understanding of esolang that is enough for me to develop one, an esolang based on the appearance of Strayl may be developed. This version of Strayl would truly have properties of a formal language... or maybe not but you could code something out of it somehow. This, while not impossible, would take a huge amount of time and energy to make; so until then, please treat this as a mere suggestion with a slim chance to happen. 
+If such program is written in the future, and that I have acquired a level of understanding of esolang that is enough for me to develop one, an esolang based on the appearance of Strayl may be developed. This version of Strayl would truly have properties of a formal language... or maybe not but you could code something out of it somehow. This, while not impossible, would take a huge amount of time and energy to make; so until then, please treat this as a mere possibility with a slim chance to happen. 
 
 
 
 ## 贡献者 Contributors
-
 *待编辑 to be edited*
+主要开发者：莱米蕾·纺帷者
+Main developer: Lamiale Veilweaver
+感谢：三途
+Contributors: V1centIII
