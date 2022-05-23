@@ -34,8 +34,13 @@ If such program is written in the future, and that I have acquired a level of un
 
 
 ## 贡献者 Contributors
+
 *待编辑 to be edited*
+
 主要开发者：莱米蕾·纺帷者
+
 Main developer: Lamiale Veilweaver
+
 感谢：三途
+
 Contributors: V1centIII
