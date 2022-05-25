@@ -2,13 +2,9 @@
 
 Just Another Decorative Cipher 一个装饰性质的密码
 
-*此处应有工作流程状态徽章 insert badges here*
-
-*临时图片 placeholder image*
-
 ![Strayl concept art](https://github.com/LamialeVeilweaver/Strayl/blob/main/images/concept_art/straylconcept.jpg "Strayl concept art")
 
-
+*概念图 Concept art*
 
 ## 简介 Intro
 迴宿（huí xiù）是一种以弧线和星形符号为主要组件的密码，由莱米蕾进行主要开发。
@@ -41,6 +37,6 @@ If such program is written in the future, and that I have acquired a level of un
 
 Main developer: Lamiale Veilweaver
 
-感谢：三途
+感谢（排名不分先后）：V1、Ellothien、Null、柯尔
 
-Contributors: V1centIII
+Contributors (in no particular order): V1centIII、Ellothien、Null、An Old Oak
