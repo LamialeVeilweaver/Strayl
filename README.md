@@ -2,11 +2,11 @@
 
 Just Another Decorative Cipher 一个装饰性质的密码
 
-<img src = "https://img.shields.io/github/last-commit/LamialeVeilweaver/Strayl" width="200" height="50">
-<img src = "https://img.shields.io/github/issues/LamialeVeilweaver/Strayl" width="200" height="50">
-<img src = "https://img.shields.io/github/forks/LamialeVeilweaver/Strayl" width="200" height="50">
-<img src = "https://img.shields.io/github/stars/LamialeVeilweaver/Strayl" width="200" height="50">
-<img src = "https://img.shields.io/github/license/LamialeVeilweaver/Strayl" width="200" height="50">
+<img src = "https://img.shields.io/github/last-commit/LamialeVeilweaver/Strayl">
+<img src = "https://img.shields.io/github/issues/LamialeVeilweaver/Strayl">
+<img src = "https://img.shields.io/github/forks/LamialeVeilweaver/Strayl">
+<img src = "https://img.shields.io/github/stars/LamialeVeilweaver/Strayl">
+<img src = "https://img.shields.io/github/license/LamialeVeilweaver/Strayl">
 
 ![Strayl concept art](https://github.com/LamialeVeilweaver/Strayl/blob/main/images/concept_art/straylconcept.jpg?raw=true)
 
