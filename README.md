@@ -2,6 +2,12 @@
 
 Just Another Decorative Cipher 一个装饰性质的密码
 
+![last-commit](https://img.shields.io/github/last-commit/LamialeVeilweaver/Strayl)
+![issues open](https://img.shields.io/github/issues/LamialeVeilweaver/Strayl)
+![forks](https://img.shields.io/github/forks/LamialeVeilweaver/Strayl)
+![stars](https://img.shields.io/github/stars/LamialeVeilweaver/Strayl)
+![license](https://img.shields.io/github/license/LamialeVeilweaver/Strayl)
+
 ![Strayl concept art](https://github.com/LamialeVeilweaver/Strayl/blob/main/images/concept_art/straylconcept.jpg "Strayl concept art")
 
 *概念图 Concept art*
