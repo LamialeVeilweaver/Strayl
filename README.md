@@ -8,7 +8,7 @@ Just Another Decorative Cipher 一个装饰性质的密码
 ![stars](https://img.shields.io/github/stars/LamialeVeilweaver/Strayl)
 ![license](https://img.shields.io/github/license/LamialeVeilweaver/Strayl)
 
-![Strayl concept art](https://github.com/LamialeVeilweaver/Strayl/blob/main/images/concept_art/straylconcept.jpg "Strayl concept art")
+![Strayl concept art](https://github.com/LamialeVeilweaver/Strayl/blob/main/images/concept_art/straylconcept.jpg?raw=true)
 
 _概念图 Concept art_
 
