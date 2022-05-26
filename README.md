@@ -34,9 +34,11 @@ There is not yet a computer encrypter / decrypter for Strayl. One could be made 
 
 _待编辑 to be edited_
 
-主要开发者：莱米蕾·纺帷者
+欢迎加入开发及使用交流Q群：491914521
 
-Main developer: Lamiale Veilweaver
+原框架开发者：莱米蕾·纺帷者
+
+Developer: Lamiale Veilweaver
 
 感谢（排名不分先后）：V1、Ellothien、Null、柯尔
 
